@@ -1,0 +1,1 @@
+# Kullanıcıdan taban ve üs değerini alır, recursive fonksiyon kullanarak üst alma işlemini gerçekleştirir.
